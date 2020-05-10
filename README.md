@@ -5,4 +5,6 @@ This resource is intended only for course staff, or general reference after 5/12
 
 ### Description of Contents:
 
-`ChemE5440_ PRELIM_assignment.pdf` is the assignment statement distributed by course staff.
+`ChemE5440_ PRELIM_assignment.pdf` is the assignment statement distributed by course staff
+
+`problem2_referencePaper.pdf` is a reference paper for problem 2.
