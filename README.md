@@ -9,4 +9,6 @@ This resource is intended only for course staff, or general reference after 5/12
 
 `problem2_referencePaper.pdf` is a reference paper for problem 2.
 
+`5440_PRELIM_Problem1.ipynb` is a jupyter notebook (running python 3) which containts the complete answer to problem one on the exam.
+
 `5440_PRELIM_Problem2.ipynb` is a jupyter notebook (running python 3) which contains the complete answer to problem two on the exam.
